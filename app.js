@@ -1,6 +1,7 @@
 const game = ()=>{
     let pScore= 0;
     let cScore = 0;
+    console.log('hello word!');
     //start the game
     const startGame= ()=>{
         const playBtn= document.querySelector('.intro button');
